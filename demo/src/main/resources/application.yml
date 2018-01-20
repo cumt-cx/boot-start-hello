@@ -1,0 +1,5 @@
+debug: true
+hello.msg: wanyang
+hello.show: true
+server:
+  port: 8888
